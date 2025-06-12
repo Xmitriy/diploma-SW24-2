@@ -1,0 +1,505 @@
+{
+  "start": {
+    "start": "Start",
+    "later": "Do another workout"	
+  },
+  "dasgal": {
+    "gym": "Gym",
+    "home": "Home",
+    "gichii": {
+      "cardio": "Cardio",
+      "strenght": "Strength",
+      "stretch": "Stretch",
+      "mobility": "Mobility",
+      "endurance": "Endurance"
+    },
+    "full": "Full Body",
+    "upper": "Upper Body",
+    "lower": "Lower Body",
+    "back": "Back",
+    "core": "Core",
+    "shoulder": "Shoulders",
+    "biceps": "Biceps",
+    "triceps": "Triceps",
+    "chest": "Chest",
+    "abs": "Abs",
+    "lowerback": "Lower Back",
+    "glutes": "Glutes",
+    "quadriceps": "Quadriceps",
+    "hamstrings": "Hamstrings",
+    "super": "Super Sets",
+    "text": "Exercises performed consecutively without rest targetiing different muscle groups.",
+    "blah": "Cardio Training",
+    "equipment": "Equipment",
+    "health": "Health Restrictions",
+    "button": "Create New Session"
+  },
+  "breakfast": {
+    "recent": "Recent",
+    "favorites": "Favorites",
+    "barcode": "Barcode",
+    "menu": "Menu",
+    "Fridge": "Fridge",
+    "title": "Breakfast",
+    "button": "Back",
+    "search": "Search",
+    "gar": "Ingredient",
+    "orts": "Part",
+    "more": "More",
+    "image": "Scan Image"
+  },
+
+  "stats": {
+    "title": "Calories"
+  },
+  "post": {
+    "button": "Post",
+    "add": "Create Post",
+    "notpost": "No post yet",
+    "create": "Create a new post or wait for others to share their thoughts",
+    "title": "Social",
+    "search": "Search post"
+  },
+  "login1": {
+    "title": "Login",
+    "email": "Enter your email",
+    "password": "Enter your password",
+    "dont": "Don't have an account?",
+    "signup": "Signup"
+  },
+  "signup": {
+    "title": "Welcome to Bluvi Fitness",
+    "apple": "continue with Apple",
+    "instagram": "continue with Instagram",
+    "google": "continue with Google",
+    "or": "or",
+    "continue": "Continue with Email",
+    "already": "Already have an account?",
+    "login": "Login"
+  },
+  "forget": {
+    "title": "Forget Password?",
+    "text": "Don't worry! It occurs. Please enter the email address linked with your account.",
+    "email": "Email Address",
+    "button": "Send Code"
+  },
+  "account": {
+    "title": "Register your account",
+    "forget": "Forget password?",
+    "or": "or login with",
+    "already": "Already have an account?",
+    "login": "Login"
+  },
+  "mnkv": {
+    "continue": "Continue",
+    "hello": "Hello",
+    "text": "Let’s craft your AI-powered personalized meal plan and shopping list - it takes less than a minute to get started!"
+  },
+  "streak": {
+    "title": "Streak Days",
+    "current": "Current Streak",
+    "longest": "Longest Streak",
+    "achievements": "Streak Achievements"
+  },
+  "settings": {
+    "account": "Account",
+    "title": "Settings",
+    "notifications": "Notifications",
+    "closeFriends": "Close Friends",
+    "Privacy": "Privacy",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "logout": "Logout"
+  },
+  "a": "login",
+  "imageScan": {
+    "cameraPermissionDenied": "Allow camera permission",
+    "galleryPermissionDenied": "Allow gallery permission",
+    "noImageSelected": "No image selected",
+    "scanError": "Error scanning image",
+    "title": "Scan your food",
+    "tapToUpload": "Tap to upload",
+    "scanButton": "Scan",
+    "changeImageButton": "Scan Image",
+    "selectImageButton": "Select Image",
+    "loadingText": "Scanning...",
+    "selectSource": "Select Source",
+    "fromGallery": "From Gallery",
+    "takePhoto": "Take Photo",
+    "cancel": "Cancel",
+    "noFoodDetected": "No food detected in the image.",
+    "retry": "Retry",
+    "close": "Close",
+    "addToStatsButton": "Add to Daily Intake",
+    "addingToStats": "Adding...",
+    "addedToStatsSuccess": "Food added to your daily stats!",
+    "addedToStatsError": "Could not add food to stats. Please try again."
+  },
+  "language": {
+    "title": "Language",
+    "select": "Select your language",
+    "english": "English",
+    "mongolian": "Mongolian",
+    "save": "Save",
+    "asuult": "Please select your language"
+  },
+  "question1": {
+    "tanid": "Do you have any dietary restrictions we should know about?",
+    "suun": ["Lactose Free", "Sugar Free", "Gluten free", "Nut Free", "None"],
+    "daraah": "Continue"
+  },
+  "question2": {
+    "songo": "What's your preferred eating style?",
+    "bi": [
+      "I eat everything",
+      "Vegan",
+      "Vegetarian",
+      "Keto",
+      "Paleo",
+      "Climatarian",
+      "Alkaline"
+    ],
+    "daraah": "Continue"
+  },
+  "question3": {
+    "ta": "Which meals do you usually have in a day?",
+    "ogloo": ["Breakfast", "Lunch", "Dinner", "Snacks"],
+    "daraah": "Continue"
+  },
+  "question4": {
+    "chi": "Which days are you planning meals for?",
+    "ene": "This week",
+    "dar": "Next week",
+    "daraah": "Continue",
+    "nemeh": "Add"
+  },
+  "question5": {
+    "zori": "Preparing your personalized menu...."
+  },
+  "mascot": {
+    "name": "Bluvi",
+    "desc": "Let's Get Fit Together"
+  },
+  "meal": {
+    "meal": "Meals",
+    "type": [
+      {
+        "name": "Breakfast",
+        "desc": "Do you eat breakfast?"
+      },
+      {
+        "name": "Lunch",
+        "desc": "Do you eat lunch?"
+      },
+      {
+        "name": "Dinner",
+        "desc": "Do you eat dinner?"
+      },
+      {
+        "name": "Snack",
+        "desc": "Do you eat snacks?"
+      }
+    ],
+    "recommendation": "Daily Recommendation",
+    "protein": "Protein",
+    "carbs": "Carbs",
+    "fat": "Fat",
+    "calories": "Calories",
+    "breakfast": "Breakfast",
+    "lunch": "Lunch",
+    "dinner": "Dinner",
+    "snack": "Snack",
+    "image": "Image",
+    "barcode": "Barcode"
+  },
+  "login": {
+    "title1": "Hi There! I'm Bluvi",
+    "title2": "Let's Get Fit Together",
+    "button1": "Login",
+    "button2": "Sign Up"
+  },
+  "register": {
+    "username": "Username",
+    "age": "How old are you?",
+    "email": "Email",
+    "password": "Password",
+    "register": "Register",
+    "button": {
+      "button1": "Back",
+      "button2": "Next"
+    },
+    "steps": {
+      "goal": {
+        "title": "What is your goal?",
+        "desc": "Your choice will affect your workout plan",
+        "choices": [
+          "Lose weight",
+          "Keep fit",
+          "Gain weight",
+          "Reduce stress",
+          "General fitness"
+        ]
+      },
+      "activity": {
+        "title": "What's your current activity level?",
+        "desc": "Your choice will affect your workout plan",
+        "choices": [
+          "Very active (exercises every day)",
+          "Moderate (exercises 2–3 times a week)",
+          "Inactive (exercises once a week or not at all)"
+        ]
+      },
+      "meals": {
+        "title": "How many meals do you have per day?",
+        "desc": "Your choice will affect your workout plan",
+        "choices": ["4 meals or more", "2-3 meals per day", "1 meal per day"]
+      },
+      "water": {
+        "milliliter": "ml",
+        "title": "How much water do you drink per day?",
+        "desc": "Your choice will affect your workout plan",
+        "choices": ["4 liters or more", "2-3 liters per day", "1 liter per day"]
+      },
+      "work": {
+        "title": "What is your current work schedule?",
+        "desc": "Your choice will affect your workout plan.",
+        "choices": [
+          "Flexible schedule",
+          "Regular hours (9:00 AM – 5:00 PM)",
+          "Shift work",
+          "Busy or irregular schedule",
+          "Currently not working / have free time"
+        ]
+      },
+      "health": {
+        "title": "Do you have any health conditions?",
+        "desc": "Your choice will affect your workout plan.",
+        "choices": [
+          "No, I'm healthy",
+          "Back or joint problems",
+          "Heart or cardiovascular condition",
+          "High Cholesterol",
+          "Respiratory issues (e.g., asthma)",
+          "Exercising under medical supervision",
+          "Gastric Disease",
+          "Cancer",
+          "Diabetes",
+          "Thyroid Disease",
+          "I have other"
+        ]
+      },
+      "step1": {
+        "title": "Let's complete your profile",
+        "desc": "Your choice will affect your workout plan.",
+        "date": "Select your date of birth",
+        "weight": "Weight",
+        "height": "Height",
+        "question1": {
+          "title": "Choose gender",
+          "choices": {
+            "1": "Male",
+            "2": "Female",
+            "3": "Other"
+          }
+        }
+      }
+    }
+  },
+  "walk": {
+    "steps": "Steps",
+    "stepsCount": "Count Steps",
+    "allowPermission": "Allow permission in settings"
+  },
+  "sleep": {
+    "sleep": "Sleep",
+    "duration": "hours"
+  },
+  "water": {
+    "word": "Water",
+    "add": "Add",
+    "alarm": "Alarm"
+  },
+  "calories": {
+    "calorie": "Calories",
+    "kcal": "kcal"
+  },
+  "Login": "Please login to continue",
+  "welcome": "Welcome",
+  "logout": "Logout",
+  "profile": "Profile",
+  "back": "Back",
+  "next": "Next",
+  "training": {
+    "workout": "Training",
+    "duration": "minutes",
+    "hi": "Hi there",
+    "hello": "Good day so far?",
+    "special": "Special for you",
+    "custom": "Custom workout",
+    "get": "Get a Strength Goal",
+    "custom1": "What would you like to do in our session?",
+    "location": "Location",
+    "wtype": "Workout Type",
+    "time": "Time",
+    "muscle": "Muscle Focus",
+    "muscle1": "Pick your workout's maiin muscles. It may include a few more. ",
+    "inten": "Intensity",
+    "min": "74 min",
+    "bul": "Back, Hamstrings, Chest",
+    "dund": "Medium intensity",
+    "str": "Strength",
+    "vid": "Video Coach",
+    "hog": "MUSIC & VOICE",
+    "aud": "Audio Settings",
+    "hugjim": "Connect Music",
+    "dasgal": "Why this workout?",
+    "gejuu": "Upper body, lower body, and core working together in today's gym session—build serious strength and muscle mass. Each set gets you closer to your muscle gain goal.",
+    "need": "What you'll need",
+    "hiih": "what you'll do",
+    "adapt": "Adapt Workout",
+    "start": "Start Workout",
+    "comp": "Complete 2 gym workouts",
+    "urid": "Preliminary Strength Score: 350-650",
+    "nerrr": "Workout Name",
+    "measure": "Measure your fitness level",
+    "test": "After Bluvi's 5-min test, you'll recieve an analysis of your current fitness levels."
+  },
+  "profile1": {
+    "title": "Your Profile",
+    "calories": "Total Calories",
+    "followers": "Followers",
+    "timeline": "Timeline",
+    "stats": "Stats",
+    "duels": "Duels"
+  },
+  "home": {
+    "task": "Today's Tasks"
+  },
+  "quiz": {
+    "title": "Take Quiz",
+    "desc": "Not sure what to eat? Let AI decide for you!"
+  },
+  "cameraTracking": {
+    "activatingAI": "Activating AI...",
+    "aiActive": "AI Active",
+    "infoLabel": "Info:",
+    "positionCorrect": "Position correct! Start your squats.",
+    "adjustPosition": "Adjust position:",
+    "success": "Success!"
+  },
+  "workoutModal": {
+    "category": "Category",
+    "level": "Level",
+    "duration": "Duration",
+    "repetitions": "Repetitions",
+    "sets": "Sets",
+    "equipment": "Equipment",
+    "none": "None",
+    "description": "Description"
+  },
+  "imagePickerModal": {
+    "takePhoto": "Take Photo",
+    "chooseFromGallery": "Choose from Gallery"
+  },
+  "registerPrompt": {
+    "title": "Register New Account?",
+    "noAccountFound": "No account was found for the email: {{email}}. Would you like to register a new account?",
+    "cancel": "Cancel",
+    "register": "Register"
+  },
+  "dailyTasks": {
+    "hydration": {
+      "waterGlasses": {
+        "title": "Drink Water (Glasses)",
+        "target": "Drink {{count}} glasses of water",
+        "unit_one": "{{count}} glass",
+        "unit_other": "{{count}} glasses"
+      },
+      "waterLiters": {
+        "title": "Drink Water (Liters)",
+        "target": "Drink {{count}} liters of water",
+        "unit_one": "{{count}} liter",
+        "unit_other": "{{count}} liters"
+      }
+    },
+    "activity": {
+      "walkSteps": {
+        "title": "Walk Steps",
+        "target": "Walk {{count}} steps",
+        "unit": "{{count}} steps"
+      },
+      "workoutMinutes": {
+        "title": "Workout",
+        "target": "Workout for {{count}} minutes",
+        "unit": "{{count}} min"
+      }
+    },
+    "mindfulness": {
+      "meditateMinutes": {
+        "title": "Meditate",
+        "target": "Meditate for {{count}} minutes",
+        "unit": "{{count}} min"
+      },
+      "stretchMinutes": {
+        "title": "Stretch",
+        "target": "Stretch for {{count}} minutes",
+        "unit": "{{count}} min"
+      }
+    },
+    "nutrition": {
+      "logMeals": {
+        "title": "Log Meals",
+        "target": "Log {{count}} meals",
+        "unit_one": "{{count}} meal",
+        "unit_other": "{{count}} meals"
+      }
+    },
+    "sleep": {
+      "sleepHours": {
+        "title": "Sleep",
+        "target": "Sleep for {{count}} hours",
+        "unit_one": "{{count}} hr",
+        "unit_other": "{{count}} hrs"
+      }
+    },
+    "completedFraction": "{{completedCount}}/{{totalTasks}} completed"
+  },
+  "waterModal": {
+    "progressFraction": "{{current}} ml of {{goal}} ml",
+    "milliliters": "{{amount}} ml"
+  },
+  "fortuneCookie": {
+    "tapToCrack": "Tap to crack your fortune!",
+    "revealWisdom": "Reveal today's wisdom 🍪",
+    "quotes": [
+      "Your potential is limitless. 🚀",
+      "Small steps every day. 🐾",
+      "Fitness is a journey, not a destination. 🛤️",
+      "You're stronger than you think! 💪",
+      "Progress, not perfection. 🌱",
+      "Keep going—every rep counts! 🔁",
+      "Believe in the power of consistency. ⏳",
+      "One day or day one. You decide. 🎯",
+      "Success starts with showing up. 🏁",
+      "The only bad workout is the one you didn't do. 🏋️",
+      "Push past your limits—growth lives there. 🌄",
+      "Discipline beats motivation. 💥",
+      "Fuel your body, free your mind. 🍎🧘",
+      "You're not alone—your future self is cheering. 🎉",
+      "Show up for yourself today. You deserve it. 💖"
+    ]
+  },
+  "recommendation": "To keep you active we recommend a minimum of {{count}} steps",
+  "stepsModal": {
+    "title": "Steps",
+    "today": "Today",
+    "dailyGoal": "Daily step goal",
+    "recommendation": "To keep you active we recommend a minimum of {{count}} steps"
+  },
+  "friendsActivity": {
+    "title": "Friends Activity"
+  },
+  "custom": {
+    "hello": "Hello"
+  }
+}

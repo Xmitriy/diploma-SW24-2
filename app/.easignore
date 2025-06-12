@@ -1,0 +1,26 @@
+node_modules/
+npm-debug.log
+
+/android
+/ios
+android/
+ios/
+
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/build/
+build/
+dist/
+
+__tests__/
+*.test.js
+
+.DS_Store
+.vscode/
+.idea/
+
+# OS
+*.log
+
+.git/
