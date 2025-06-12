@@ -12,7 +12,7 @@ React Native fitness application with ai recommended exercises
 
 ## Installation
 
-1. Clone the repository:git clone https://github.com/Xmitriy/diploma-SW24-2.git
+1. Clone the repository:
 ```bash
 
 ```
